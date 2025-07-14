@@ -67,13 +67,7 @@ This dashboard helps HR teams:
 
 ---
 
-## 📁 Files
 
-- `HR_Dashboard.pbix` – Power BI dashboard file (upload if allowed)
-- `HR_Data.csv` – Raw dataset (if public)
-- `Dashboard_Screenshot.pdf` – Preview of the dashboard visuals
-
----
 
 ## 🚀 Future Enhancements
 
